@@ -1,6 +1,6 @@
 <h1>Conversor de moedas 💲</h1>
 <br>
-<h2>Projeto focado no meu inicio de aprendizado em JavaScript.</h2>
+<h2>Projeto focado no meu início de aprendizado em JavaScript.</h2>
 
 <h2>Tecnologias Utilizadas: HTML, CSS e JAVASCRIPT.</h2>
 <br>
